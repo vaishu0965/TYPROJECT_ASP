@@ -64,7 +64,7 @@ namespace WindowsFormsApplication1
 
         private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
         {
-
+            MessageBox.Show("sadasd");
         }
 
         
